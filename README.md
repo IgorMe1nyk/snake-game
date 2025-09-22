@@ -14,7 +14,7 @@ Control the snake with your keyboard, eat food, and grow while avoiding collisio
 3. Run the main file: `main.py`.
 
 ## 📸 Screenshot
-*(Optional: add a screenshot or GIF of your game here)*
+
 
 ## 🛠️ Technologies Used
 - Python 3
